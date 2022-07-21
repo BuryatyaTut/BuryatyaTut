@@ -1,4 +1,4 @@
-### Hi there 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+It's+me+Asad)](https://git.io/typing-svg)
+### Hi there 👋, It's me - Asad
 
 ## 🔧 My skills:
   - C/C++
