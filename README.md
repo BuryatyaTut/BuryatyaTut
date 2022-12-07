@@ -2,8 +2,8 @@
 
 ## 🔧 My skills:
   - C++
-  - Java
   - Python
+  - Java
 
 ## ✨ My socials:
   - [Telegram](https://t.me/AsadR22)
