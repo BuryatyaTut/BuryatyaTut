@@ -1,7 +1,7 @@
 ### Hi there 👋, It's me - Asad
 
 ## 🔧 My skills:
-  - C/C++
+  - C++
   - Java
   - Python
 
