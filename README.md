@@ -1,9 +1,9 @@
 ### Hi there 👋, It's me - Asad
 
 ## 🔧 My skills:
-  - C++
-  - Python
-  - Java
+  - C++/Rust/Python/JS/TS
+  - Solidity/Blockchain
+  - Machine Learning
 
 ## ✨ My socials:
   - [Telegram](https://t.me/AsadR22)
