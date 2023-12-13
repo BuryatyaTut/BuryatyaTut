@@ -7,7 +7,6 @@
 
 ## ✨ My socials:
   - [Telegram](https://t.me/AsadR22)
-  - [VK](https://vk.com/antihrupkij)
 
 <!--
 **BuryatyaTut/BuryatyaTut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
